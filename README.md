@@ -1,3 +1,5 @@
+## 제작 중단
+
 #### 참고
 
 - https://velog.io/@jisoolee11/%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EC%A4%80%EB%B9%84-React-native-Expo-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
